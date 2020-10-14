@@ -17,9 +17,9 @@ https://tech-student-oono.github.io/quizgame/
 # 制作背景(意図)
 
 # DEMO
-<img width="1440" alt="スクリーンショット 2020-10-14 17 44 40" src="https://user-images.githubusercontent.com/68591022/95965945-831a4000-0e45-11eb-8e08-c28740bfd862.png">
-<img width="1440" alt="スクリーンショット 2020-10-14 17 45 13" src="https://user-images.githubusercontent.com/68591022/95965964-8ad9e480-0e45-11eb-962d-a38bb21052ba.png">
-<img width="1440" alt="スクリーンショット 2020-10-14 17 45 29" src="https://user-images.githubusercontent.com/68591022/95965974-8dd4d500-0e45-11eb-9e89-906a9785cd0c.png">
+<img width="1440" alt="スクリーンショット 2020-10-14 17 51 21" src="https://user-images.githubusercontent.com/68591022/95966357-fe7bf180-0e45-11eb-84fd-7a3258a86c2d.png">
+<img width="1440" alt="スクリーンショット 2020-10-14 17 51 29" src="https://user-images.githubusercontent.com/68591022/95966362-0176e200-0e46-11eb-8f54-6db667a03ed1.png">
+<img width="1440" alt="スクリーンショット 2020-10-14 17 51 44" src="https://user-images.githubusercontent.com/68591022/95966368-0340a580-0e46-11eb-9a0b-a7ec2f385ec3.png">
 
 # 使用技術(開発環境)
 ## バックエンド
