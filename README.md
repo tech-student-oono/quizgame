@@ -11,6 +11,8 @@ youtubeの解説動画を参考にDBを使わずjavascriptとhtmlだけで作っ
 
 最後の問題が終了した後に合計正解数が表示されます(現在３問)
 
+トップページを作成し、問題終了後にトップページへ遷移し、クイズを最初から繰り返せるよう追記しました
+
 # 本番環境
 https://tech-student-oono.github.io/quizgame/
 
