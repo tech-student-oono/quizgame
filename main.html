@@ -6,43 +6,45 @@
   <title></title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
-
+  
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+  
   <meta name="theme-color" content="#fafafa">
-  <style>
-    h1 {font-size: 50px;}
-    h2 {font-size: 30px;}
-    h3 {font-size: 20px; color: black;}
-  </style>
 </head>
 
 <body>
-
+  
   <div class="container">
+    
     <div class="jumbotron mt-5">
       <div class="d-flex justify-content-center">
         <div id="js-question" class="alert alert-success" role="alert">
-          <h1>クイズゲーム</h1><br><h2>４択式のクイズゲームです</h2><br>
-          <h3>「クイズを始める」をクリックするとクイズを開始します<br>
-            単語をクリックして回答します、正誤判定がされて次の問題に進みます<br>
-            最後の問題終了後に合計正解数が表示されます、OKでトップページに戻ります</h3>
+          A simple success alert—check it out!
+        </div>
+      </div>
+      
+      <div id="js-items" class="d-flex justify-content-center">
+        <div class="m-2">
+          <button type="button" id="js-btn-1" class="btn btn-success">Success</button>
+        </div>
+        <div class="m-2">
+          <button type="button" id="js-btn-2" class="btn btn-success">Success</button>
+        </div>
+        <div class="m-2">
+          <button type="button" id="js-btn-3" class="btn btn-success">Success</button>
+        </div>
+        <div class="m-2">
+          <button type="button" id="js-btn-4" class="btn btn-success">Success</button>
         </div>
       </div>
     </div>
-
-    <div id="js-items" class="d-flex justify-content-center">
-      <div class="m-2">
-        <a href="main.html" type="button" id="js-btn-1" class="btn btn-success">クイズを始める</a>
-      </div>
-    </div>
-
   </div>
-
+  
+  <script src="app.js"></script>
 </body>
 
 </html>
