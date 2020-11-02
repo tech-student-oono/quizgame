@@ -26,6 +26,24 @@ const quiz = [
       '.erb'
     ],
     correct: '.erb'
+  }, {
+    question: 'HTMLを記述する際に先頭に書く要素はどれ？',
+    answers: [
+      '<!DOCTYPE CSS>', 
+      '<!DOCTYPE HTML>', 
+      '<! HTML>', 
+      '<DOCTYPE!!>'
+    ],
+    correct: '<!DOCTYPE HTML>'
+  }, {
+    question: 'ターミナルにてカレントディレクトリのパスを表示するLinuxコマンドはどれ？',
+    answers: [
+      'cd', 
+      'ls', 
+      'pwd', 
+      'rails'
+    ],
+    correct: 'pwd'
   }
 ];
 
